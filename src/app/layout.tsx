@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   creator: "Fastcalc",
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
+  verification: {
+    google: "QAyS5dJ7ciIgy3mGHlkfm4IxIYtyJ-Mk1YbC68AyViI",
+  },
 };
 
 export default function RootLayout({
