@@ -21,6 +21,19 @@ export const metadata: Metadata = {
   verification: {
     google: "QAyS5dJ7ciIgy3mGHlkfm4IxIYtyJ-Mk1YbC68AyViI",
   },
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' }
+    ],
+    shortcut: ['/favicon.svg'],
+    apple: [
+      { url: '/favicon.svg' }
+    ],
+    other: {
+      rel: 'apple-touch-icon-precomposed',
+      url: '/favicon.svg',
+    },
+  },
 };
 
 export default function RootLayout({

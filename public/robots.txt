@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://fastcalc.site/sitemap.xml
-Host: https://fastcalc.site
