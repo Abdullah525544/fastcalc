@@ -259,9 +259,9 @@ export default function IR35Checker() {
                             "@graph": [
                                 {
                                     "@type": "WebApplication",
-                                    "@id": "https://fastcalc.site/tools/ir35-checker/#app",
+                                    "@id": "https://fastcalc.site/ir35-checker/#app",
                                     "name": "IR35 Status Checker 2025 — Free Tool",
-                                    "url": "https://fastcalc.site/tools/ir35-checker",
+                                    "url": "https://fastcalc.site/ir35-checker",
                                     "applicationCategory": "FinanceApplication",
                                     "operatingSystem": "Web Browser",
                                     "inLanguage": "en-GB",
@@ -288,7 +288,7 @@ export default function IR35Checker() {
                                 },
                                 {
                                     "@type": "FAQPage",
-                                    "@id": "https://fastcalc.site/tools/ir35-checker/#faq",
+                                    "@id": "https://fastcalc.site/ir35-checker/#faq",
                                     "mainEntity": [
                                         {
                                             "@type": "Question",
@@ -334,7 +334,7 @@ export default function IR35Checker() {
                                 },
                                 {
                                     "@type": "BreadcrumbList",
-                                    "@id": "https://fastcalc.site/tools/ir35-checker/#breadcrumb",
+                                    "@id": "https://fastcalc.site/ir35-checker/#breadcrumb",
                                     "itemListElement": [
                                         {
                                             "@type": "ListItem",
@@ -352,7 +352,7 @@ export default function IR35Checker() {
                                             "@type": "ListItem",
                                             "position": 3,
                                             "name": "IR35 Status Checker",
-                                            "item": "https://fastcalc.site/tools/ir35-checker"
+                                            "item": "https://fastcalc.site/ir35-checker"
                                         }
                                     ]
                                 }

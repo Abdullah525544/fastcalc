@@ -78,9 +78,9 @@ export default function PasswordGenerator() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/password-generator/#app",
+                                "@id": "https://fastcalc.site/password-generator/#app",
                                 "name": "Secure Password Generator - Fastcalc",
-                                "url": "https://fastcalc.site/tools/password-generator",
+                                "url": "https://fastcalc.site/password-generator",
                                 "applicationCategory": "SecurityApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-US",

@@ -57,9 +57,9 @@ export default function LoanCalculator() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/loan-calculator/#app",
+                                "@id": "https://fastcalc.site/loan-calculator/#app",
                                 "name": "Loan Calculator - Personal & Mortgage Interest Tool",
-                                "url": "https://fastcalc.site/tools/loan-calculator",
+                                "url": "https://fastcalc.site/loan-calculator",
                                 "applicationCategory": "FinanceApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-US",

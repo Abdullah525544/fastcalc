@@ -55,9 +55,9 @@ export default function PercentageCalculator() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/percentage-calculator/#app",
+                                "@id": "https://fastcalc.site/percentage-calculator/#app",
                                 "name": "Percentage Calculator - Universal % Tool",
-                                "url": "https://fastcalc.site/tools/percentage-calculator",
+                                "url": "https://fastcalc.site/percentage-calculator",
                                 "applicationCategory": "FinanceApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-US",

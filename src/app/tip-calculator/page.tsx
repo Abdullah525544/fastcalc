@@ -54,9 +54,9 @@ export default function TipCalculator() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/tip-calculator/#app",
+                                "@id": "https://fastcalc.site/tip-calculator/#app",
                                 "name": "Tip Calculator - Free Bill Splitter Tool",
-                                "url": "https://fastcalc.site/tools/tip-calculator",
+                                "url": "https://fastcalc.site/tip-calculator",
                                 "applicationCategory": "FinanceApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-US",

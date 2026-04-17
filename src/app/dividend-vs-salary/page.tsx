@@ -143,9 +143,9 @@ export default function DividendVsSalary() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/dividend-vs-salary/#app",
+                                "@id": "https://fastcalc.site/dividend-vs-salary/#app",
                                 "name": "Dividend vs Salary Calculator UK 2025/26",
-                                "url": "https://fastcalc.site/tools/dividend-vs-salary",
+                                "url": "https://fastcalc.site/dividend-vs-salary",
                                 "applicationCategory": "FinanceApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-GB",
@@ -172,7 +172,7 @@ export default function DividendVsSalary() {
                             },
                             {
                                 "@type": "FAQPage",
-                                "@id": "https://fastcalc.site/tools/dividend-vs-salary/#faq",
+                                "@id": "https://fastcalc.site/dividend-vs-salary/#faq",
                                 "mainEntity": [
                                     {
                                         "@type": "Question",
@@ -218,7 +218,7 @@ export default function DividendVsSalary() {
                             },
                             {
                                 "@type": "BreadcrumbList",
-                                "@id": "https://fastcalc.site/tools/dividend-vs-salary/#breadcrumb",
+                                "@id": "https://fastcalc.site/dividend-vs-salary/#breadcrumb",
                                 "itemListElement": [
                                     {
                                         "@type": "ListItem",
@@ -236,7 +236,7 @@ export default function DividendVsSalary() {
                                         "@type": "ListItem",
                                         "position": 3,
                                         "name": "Dividend vs Salary Calculator",
-                                        "item": "https://fastcalc.site/tools/dividend-vs-salary"
+                                        "item": "https://fastcalc.site/dividend-vs-salary"
                                     }
                                 ]
                             }

@@ -90,9 +90,9 @@ export default function GradeCalculator() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/grade-calculator/#app",
+                                "@id": "https://fastcalc.site/grade-calculator/#app",
                                 "name": "Grade Calculator - Free Weighted Grade Tool",
-                                "url": "https://fastcalc.site/tools/grade-calculator",
+                                "url": "https://fastcalc.site/grade-calculator",
                                 "applicationCategory": "EducationApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-US",
@@ -118,7 +118,7 @@ export default function GradeCalculator() {
                             },
                             {
                                 "@type": "FAQPage",
-                                "@id": "https://fastcalc.site/tools/grade-calculator/#faq",
+                                "@id": "https://fastcalc.site/grade-calculator/#faq",
                                 "mainEntity": [
                                     {
                                         "@type": "Question",

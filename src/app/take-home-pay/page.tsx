@@ -137,9 +137,9 @@ export default function TakeHomePay() {
                         "@graph": [
                             {
                                 "@type": "WebApplication",
-                                "@id": "https://fastcalc.site/tools/take-home-pay/#app",
+                                "@id": "https://fastcalc.site/take-home-pay/#app",
                                 "name": "UK Take-Home Pay Calculator 2025/26",
-                                "url": "https://fastcalc.site/tools/take-home-pay",
+                                "url": "https://fastcalc.site/take-home-pay",
                                 "applicationCategory": "FinanceApplication",
                                 "operatingSystem": "Web Browser",
                                 "inLanguage": "en-GB",
@@ -166,7 +166,7 @@ export default function TakeHomePay() {
                             },
                             {
                                 "@type": "FAQPage",
-                                "@id": "https://fastcalc.site/tools/take-home-pay/#faq",
+                                "@id": "https://fastcalc.site/take-home-pay/#faq",
                                 "mainEntity": [
                                     {
                                         "@type": "Question",
@@ -212,7 +212,7 @@ export default function TakeHomePay() {
                             },
                             {
                                 "@type": "BreadcrumbList",
-                                "@id": "https://fastcalc.site/tools/take-home-pay/#breadcrumb",
+                                "@id": "https://fastcalc.site/take-home-pay/#breadcrumb",
                                 "itemListElement": [
                                     {
                                         "@type": "ListItem",
@@ -230,7 +230,7 @@ export default function TakeHomePay() {
                                         "@type": "ListItem",
                                         "position": 3,
                                         "name": "UK Take-Home Pay Calculator",
-                                        "item": "https://fastcalc.site/tools/take-home-pay"
+                                        "item": "https://fastcalc.site/take-home-pay"
                                     }
                                 ]
                             }

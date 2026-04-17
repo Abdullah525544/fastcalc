@@ -19,7 +19,7 @@ const tools = [
     {
         name: "Take-Home Pay Calculator",
         description: "Detailed breakdown of your net salary for 2025/26 including Income Tax, NI, and student loans.",
-        href: "/tools/take-home-pay",
+        href: "/take-home-pay",
         icon: Calculator,
         color: "text-blue-500",
         bgColor: "bg-blue-50",
@@ -27,7 +27,7 @@ const tools = [
     {
         name: "IR35 Status Checker",
         description: "Self-assessment tool to determine if your contract falls inside or outside IR35 legislation.",
-        href: "/tools/ir35-checker",
+        href: "/ir35-checker",
         icon: ShieldCheck,
         color: "text-accent",
         bgColor: "bg-green-50",
@@ -35,7 +35,7 @@ const tools = [
     {
         name: "Dividend vs Salary",
         description: "Compare the total tax paid and net take-home between basic salary and dividend payment models.",
-        href: "/tools/dividend-vs-salary",
+        href: "/dividend-vs-salary",
         icon: TrendingUp,
         color: "text-purple-500",
         bgColor: "bg-purple-50",
@@ -43,7 +43,7 @@ const tools = [
     {
         name: "Grade Calculator",
         description: "Calculate your weighted average grade, track semester progress, and determine final exam scores needed.",
-        href: "/tools/grade-calculator",
+        href: "/grade-calculator",
         icon: GraduationCap,
         color: "text-amber-500",
         bgColor: "bg-amber-50",
@@ -51,7 +51,7 @@ const tools = [
     {
         name: "Percentage Calculator",
         description: "Universal tool for percentage of values, percentage change, and fractional proportional math.",
-        href: "/tools/percentage-calculator",
+        href: "/percentage-calculator",
         icon: Percent,
         color: "text-green-500",
         bgColor: "bg-green-50",
@@ -59,7 +59,7 @@ const tools = [
     {
         name: "Loan Calculator",
         description: "Calculate monthly payments, total interest, and the true cost of credit for any loan or mortgage.",
-        href: "/tools/loan-calculator",
+        href: "/loan-calculator",
         icon: CircleDollarSign,
         color: "text-blue-600",
         bgColor: "bg-blue-50",
@@ -67,7 +67,7 @@ const tools = [
     {
         name: "Tip Calculator",
         description: "Perfect gratuity calculator with bill splitting and global dining etiquette guides.",
-        href: "/tools/tip-calculator",
+        href: "/tip-calculator",
         icon: UtensilsCrossed,
         color: "text-orange-500",
         bgColor: "bg-orange-50",
@@ -75,7 +75,7 @@ const tools = [
     {
         name: "Password Generator",
         description: "Generate unbreakable, random passwords instantly within your browser for maximum privacy.",
-        href: "/tools/password-generator",
+        href: "/password-generator",
         icon: Lock,
         color: "text-red-500",
         bgColor: "bg-red-50",
@@ -133,8 +133,8 @@ export default function ToolsHub() {
                     <div>
                         <h3 className="text-xl font-bold mb-2">Wait, which one do I need?</h3>
                         <p className="text-gray-400 max-w-3xl leading-relaxed">
-                            If you’re new to contracting, start with the <Link href="/tools/ir35-checker" className="text-accent hover:underline">IR35 Checker</Link> to
-                            determine your employment status. Once you know your status, the <Link href="/tools/take-home-pay" className="text-accent hover:underline">Take-Home Pay</Link> calculator
+                            If you’re new to contracting, start with the <Link href="/ir35-checker" className="text-accent hover:underline">IR35 Checker</Link> to
+                            determine your employment status. Once you know your status, the <Link href="/take-home-pay" className="text-accent hover:underline">Take-Home Pay</Link> calculator
                             will show you exactly what to expect in your bank account each month.
                         </p>
                     </div>
