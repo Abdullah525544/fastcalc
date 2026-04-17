@@ -7,7 +7,12 @@ import {
     ShieldCheck,
     TrendingUp,
     ArrowRight,
-    Info
+    Info,
+    GraduationCap,
+    CircleDollarSign,
+    Percent,
+    UtensilsCrossed,
+    Lock
 } from "lucide-react";
 
 const tools = [
@@ -35,6 +40,46 @@ const tools = [
         color: "text-purple-500",
         bgColor: "bg-purple-50",
     },
+    {
+        name: "Grade Calculator",
+        description: "Calculate your weighted average grade, track semester progress, and determine final exam scores needed.",
+        href: "/tools/grade-calculator",
+        icon: GraduationCap,
+        color: "text-amber-500",
+        bgColor: "bg-amber-50",
+    },
+    {
+        name: "Percentage Calculator",
+        description: "Universal tool for percentage of values, percentage change, and fractional proportional math.",
+        href: "/tools/percentage-calculator",
+        icon: Percent,
+        color: "text-green-500",
+        bgColor: "bg-green-50",
+    },
+    {
+        name: "Loan Calculator",
+        description: "Calculate monthly payments, total interest, and the true cost of credit for any loan or mortgage.",
+        href: "/tools/loan-calculator",
+        icon: CircleDollarSign,
+        color: "text-blue-600",
+        bgColor: "bg-blue-50",
+    },
+    {
+        name: "Tip Calculator",
+        description: "Perfect gratuity calculator with bill splitting and global dining etiquette guides.",
+        href: "/tools/tip-calculator",
+        icon: UtensilsCrossed,
+        color: "text-orange-500",
+        bgColor: "bg-orange-50",
+    },
+    {
+        name: "Password Generator",
+        description: "Generate unbreakable, random passwords instantly within your browser for maximum privacy.",
+        href: "/tools/password-generator",
+        icon: Lock,
+        color: "text-red-500",
+        bgColor: "bg-red-50",
+    },
 ];
 
 export default function ToolsHub() {
@@ -46,9 +91,9 @@ export default function ToolsHub() {
                         <div className="h-px w-8 bg-accent"></div>
                         Our Toolkit
                     </div>
-                    <h1 className="text-4xl font-bold text-navy mb-4">Financial Tools for Contractors</h1>
+                    <h1 className="text-4xl font-bold text-navy mb-4">Financial & Utility Suit</h1>
                     <p className="text-gray-500 max-w-2xl text-lg">
-                        Every tool is free to use, privacy-first, and updated for the 2025/26 tax year.
+                        Free, privacy-first tools for finance, education, and daily productivity.
                         No signup or personal data required.
                     </p>
                 </header>

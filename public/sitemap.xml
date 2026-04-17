@@ -26,6 +26,31 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://fastcalc.site/tools/grade-calculator</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://fastcalc.site/tools/percentage-calculator</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://fastcalc.site/tools/loan-calculator</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://fastcalc.site/tools/tip-calculator</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://fastcalc.site/tools/password-generator</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://fastcalc.site/about</loc>
     <priority>0.5</priority>
     <changefreq>yearly</changefreq>
