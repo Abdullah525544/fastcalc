@@ -51,6 +51,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://fastcalc.site/tools/tap-tempo</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://fastcalc.site/about</loc>
     <priority>0.5</priority>
     <changefreq>yearly</changefreq>

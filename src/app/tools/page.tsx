@@ -12,7 +12,8 @@ import {
     CircleDollarSign,
     Percent,
     UtensilsCrossed,
-    Lock
+    Lock,
+    Activity
 } from "lucide-react";
 
 const tools = [
@@ -79,6 +80,14 @@ const tools = [
         icon: Lock,
         color: "text-red-500",
         bgColor: "bg-red-50",
+    },
+    {
+        name: "Tap Tempo Counter",
+        description: "Calculate Beats Per Minute (BPM) by tapping. Ideal for music, pulse counting, and rhythm matching.",
+        href: "/tools/tap-tempo",
+        icon: Activity,
+        color: "text-accent",
+        bgColor: "bg-green-50",
     },
 ];
 
