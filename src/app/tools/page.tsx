@@ -8,12 +8,8 @@ import {
     TrendingUp,
     ArrowRight,
     Info,
-    GraduationCap,
     CircleDollarSign,
     Percent,
-    UtensilsCrossed,
-    Lock,
-    Activity
 } from "lucide-react";
 
 const tools = [
@@ -42,14 +38,6 @@ const tools = [
         bgColor: "bg-purple-50",
     },
     {
-        name: "Grade Calculator",
-        description: "Calculate your weighted average grade, track semester progress, and determine final exam scores needed.",
-        href: "/tools/grade-calculator",
-        icon: GraduationCap,
-        color: "text-amber-500",
-        bgColor: "bg-amber-50",
-    },
-    {
         name: "Percentage Calculator",
         description: "Universal tool for percentage of values, percentage change, and fractional proportional math.",
         href: "/tools/percentage-calculator",
@@ -64,30 +52,6 @@ const tools = [
         icon: CircleDollarSign,
         color: "text-blue-600",
         bgColor: "bg-blue-50",
-    },
-    {
-        name: "Tip Calculator",
-        description: "Perfect gratuity calculator with bill splitting and global dining etiquette guides.",
-        href: "/tools/tip-calculator",
-        icon: UtensilsCrossed,
-        color: "text-orange-500",
-        bgColor: "bg-orange-50",
-    },
-    {
-        name: "Password Generator",
-        description: "Generate unbreakable, random passwords instantly within your browser for maximum privacy.",
-        href: "/tools/password-generator",
-        icon: Lock,
-        color: "text-red-500",
-        bgColor: "bg-red-50",
-    },
-    {
-        name: "Tap Tempo Counter",
-        description: "Calculate Beats Per Minute (BPM) by tapping. Ideal for music, pulse counting, and rhythm matching.",
-        href: "/tools/tap-tempo",
-        icon: Activity,
-        color: "text-accent",
-        bgColor: "bg-green-50",
     },
 ];
 
